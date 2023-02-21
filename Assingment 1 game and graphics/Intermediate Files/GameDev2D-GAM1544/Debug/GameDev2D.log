@@ -1,0 +1,4 @@
+﻿  Ship.cpp
+C:\Users\bluet\source\repos\Assingment 1 game and graphics\Source\Ship.cpp(100,53): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\bluet\source\repos\Assingment 1 game and graphics\Source\Ship.cpp(101,54): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  GameDev2D.vcxproj -> C:\Users\bluet\source\repos\Assingment 1 game and graphics\Builds\GameDev2D-GAM1544\Debug\GameDev2D-GAM1544.exe
